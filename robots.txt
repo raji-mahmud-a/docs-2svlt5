@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-mxrz0m.assetshst.online/sitemap.xml
